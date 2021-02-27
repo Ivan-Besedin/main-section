@@ -1,0 +1,41 @@
+.problems {
+  width: 100%;
+  background: #111518;
+  padding-top: 50px;
+
+  position: relative;
+}
+
+.problems__title {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 20px;
+  line-height: 1.35;
+  letter-spacing: 0.03em;
+  color: #ffffff;
+
+  width: 280px;
+  height: 128px;
+
+  margin-bottom: 367px;
+}
+
+.problems__title-span {
+  color: #ff6b09;
+}
+
+.problems__container {
+  position: absolute;
+  width: 280px;
+  height: 488px;
+
+  background: #ffffff;
+  box-shadow: -5px 8px 26px rgba(0, 0, 0, 0.04);
+
+  padding-top: 20px;
+  padding-left: 30px;
+  padding-right: 14px;
+  padding-bottom: 20px;
+  align-self: center;
+}
